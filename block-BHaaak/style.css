@@ -1,0 +1,20 @@
+img{
+    width: 700px;
+    height: 300px;
+}
+#footer{
+    color: green;
+}
+#Public{
+    color: rgb(40, 140, 187);
+    font-size: 21px;
+}
+button{
+    color:black;
+    background-color: green;
+    
+}
+.Pages{
+    color: steelblue;
+
+}
