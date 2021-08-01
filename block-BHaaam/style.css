@@ -32,8 +32,10 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
+blockquote:before,
+ blockquote:after,
+q:before,
+ q:after {
 	content: '';
 	content: none;
 }
@@ -67,7 +69,7 @@ p{
 
     margin: 8px;
     color: lightseagreen;
-    background-color: midnightblue;
+   background-color: maroon;
    
 }
 footer
@@ -88,4 +90,7 @@ footer
 #color
 {
     background-color:lightsteelblue;
+}
+.copyright{
+    text-align: center;
 }
